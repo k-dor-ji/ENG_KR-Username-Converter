@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Permanent+Marker&display=swap');
+@import "tailwindcss";
+
+@layer components {
+    .title {
+        font-family: "Gamja Flower", cursive;
+        font-size: 2.5rem;
+        font-weight: 200;
+        padding: 0 0 30px 0;
+    }
+
+    .mp-info {
+        gap: 20vw;
+        display: flex;
+        align-items: center;
+    }
+
+    .mappings {
+        background-color: rgb(10, 10, 10);
+        border-radius: 20px;
+        flex: 1;
+        font-size: 30px;
+        padding: 40px;
+    }
+
+    .qwerty {
+        padding: 50px;
+    }
+
+}
+
+#root {
+    padding: 2rem;
+    text-align: center;
+}

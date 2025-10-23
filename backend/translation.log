@@ -1,0 +1,80 @@
+2025-10-22 21:01:30,081 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=asdwex "HTTP/2 200 OK" - 1740
+2025-10-22 21:01:30,081 - INFO - Auto-translate utilized for entry: asdwex - 61
+2025-10-22 21:01:30,081 - INFO - |asdwex,아스드웩스,['ㅇ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅡ', 'ㅇ', 'ㅜ', 'ㅔ', 'ㄱ', 'ㅅ', 'ㅡ'],dktmemdnprtm,0.10802268981933594| - 73
+2025-10-22 21:01:32,654 - INFO - Manual override for 제이 located. - 52
+2025-10-22 21:01:32,654 - INFO - |jay,제이,['ㅈ', 'ㅔ', 'ㅇ', 'ㅣ'],wpdl,0| - 73
+2025-10-22 21:01:34,526 - INFO - Manual override for 제이 located. - 52
+2025-10-22 21:01:34,526 - INFO - |jay,제이,['ㅈ', 'ㅔ', 'ㅇ', 'ㅣ'],wpdl,0| - 73
+2025-10-22 21:01:34,692 - INFO - Manual override for 제이 located. - 52
+2025-10-22 21:01:34,692 - INFO - |jay,제이,['ㅈ', 'ㅔ', 'ㅇ', 'ㅣ'],wpdl,0| - 73
+2025-10-22 21:01:37,885 - WARNING - Empty input - 45
+2025-10-22 21:01:39,597 - WARNING - Empty input - 45
+2025-10-22 21:01:42,464 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=a "HTTP/2 200 OK" - 1740
+2025-10-22 21:01:42,464 - INFO - Auto-translate utilized for entry: a - 61
+2025-10-22 21:01:42,465 - INFO - |a,에이,['ㅇ', 'ㅔ', 'ㅇ', 'ㅣ'],dpdl,1.1034257411956787| - 73
+2025-10-22 21:01:55,567 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=a "HTTP/2 200 OK" - 1740
+2025-10-22 21:01:55,568 - INFO - Auto-translate utilized for entry: a - 61
+2025-10-22 21:01:55,569 - INFO - |a,에이,['ㅇ', 'ㅔ', 'ㅇ', 'ㅣ'],dpdl,0.17429780960083008| - 73
+2025-10-22 21:02:06,115 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=garuda+doll "HTTP/2 200 OK" - 1740
+2025-10-22 21:02:06,116 - INFO - Auto-translate utilized for entry: garuda doll - 61
+2025-10-22 21:02:06,116 - INFO - |garuda doll,가루다 인형,['ㄱ', 'ㅏ', 'ㄹ', 'ㅜ', 'ㄷ', 'ㅏ', 'ㅇ', 'ㅣ', 'ㄴ', 'ㅎ', 'ㅕ', 'ㅇ'],rkfnekdlsgud,0.9170708656311035| - 73
+2025-10-22 21:10:24,731 - WARNING - Empty input - 45
+2025-10-22 21:13:32,595 - WARNING - Empty input - 45
+2025-10-22 21:13:37,705 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=pokemon+adnasd+kansdknas+ "HTTP/2 200 OK" - 1740
+2025-10-22 21:13:37,708 - INFO - Auto-translate utilized for entry: pokemon adnasd kansdknas  - 61
+2025-10-22 21:13:37,709 - INFO - |pokemon adnasd kansdknas ,포켓몬 adnasd kansdknas,['ㅍ', 'ㅗ', 'ㅋ', 'ㅔ', 'ㅅ', 'ㅁ', 'ㅗ', 'ㄴ'],vhzptahs,0.6052587032318115| - 73
+2025-10-22 21:16:46,197 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=pokemon+adnasd+kansdknas+ "HTTP/2 200 OK" - 1740
+2025-10-22 21:16:46,198 - INFO - Auto-translate utilized for entry: pokemon adnasd kansdknas  - 61
+2025-10-22 21:16:46,198 - INFO - |pokemon adnasd kansdknas ,포켓몬 adnasd kansdknas,['ㅍ', 'ㅗ', 'ㅋ', 'ㅔ', 'ㅅ', 'ㅁ', 'ㅗ', 'ㄴ'],vhzptahs,0.20118188858032227| - 73
+2025-10-22 21:16:53,927 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=apapapapapasdasd+asdasd "HTTP/2 200 OK" - 1740
+2025-10-22 21:16:53,927 - INFO - Auto-translate utilized for entry: apapapapapasdasd asdasd - 61
+2025-10-22 21:16:53,930 - INFO - |apapapapapasdasd asdasd,아파파파파스다스아스다스드,['ㅇ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㅇ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅡ'],dkvkvkvkvktmektmdktmektmem,0.7261521816253662| - 73
+2025-10-22 21:17:04,119 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=apapapapapasdasd+asdasd "HTTP/2 200 OK" - 1740
+2025-10-22 21:17:04,119 - INFO - Auto-translate utilized for entry: apapapapapasdasd asdasd - 61
+2025-10-22 21:17:04,119 - INFO - |apapapapapasdasd asdasd,아파파파파스다스아스다스드,['ㅇ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㅇ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅡ'],dkvkvkvkvktmektmdktmektmem,0.1336531639099121| - 73
+2025-10-22 21:17:09,239 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=apapapapapasdasd+asdasd "HTTP/2 200 OK" - 1740
+2025-10-22 21:17:09,240 - INFO - Auto-translate utilized for entry: apapapapapasdasd asdasd - 61
+2025-10-22 21:17:09,241 - INFO - |apapapapapasdasd asdasd,아파파파파스다스아스다스드,['ㅇ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㅇ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅡ'],dkvkvkvkvktmektmdktmektmem,0.18821072578430176| - 73
+2025-10-22 21:17:10,953 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=apapapapapasdasd+asdasd "HTTP/2 200 OK" - 1740
+2025-10-22 21:17:10,954 - INFO - Auto-translate utilized for entry: apapapapapasdasd asdasd - 61
+2025-10-22 21:17:10,955 - INFO - |apapapapapasdasd asdasd,아파파파파스다스아스다스드,['ㅇ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㅇ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅡ'],dkvkvkvkvktmektmdktmektmem,0.09447312355041504| - 73
+2025-10-22 21:17:14,667 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=apapapapapasdasd+asdasdasd+asd "HTTP/2 200 OK" - 1740
+2025-10-22 21:17:14,668 - INFO - Auto-translate utilized for entry: apapapapapasdasd asdasdasd asd - 61
+2025-10-22 21:17:14,668 - INFO - |apapapapapasdasd asdasdasd asd,아파파파파파스다스다스다스ASD,['ㅇ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅍ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅏ', 'ㅅ', 'ㅡ', 'ㄷ', 'ㅏ', 'ㅅ', 'ㅡ'],dkvkvkvkvkvktmektmektmektm,0.20420336723327637| - 73
+2025-10-22 21:17:24,190 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=this+is+the+biggest+egg+ive+se "HTTP/2 200 OK" - 1740
+2025-10-22 21:17:24,192 - INFO - Auto-translate utilized for entry: this is the biggest egg ive se - 61
+2025-10-22 21:17:24,192 - INFO - |this is the biggest egg ive se,이게 가장 큰 달걀이야,['ㅇ', 'ㅣ', 'ㄱ', 'ㅔ', 'ㄱ', 'ㅏ', 'ㅈ', 'ㅏ', 'ㅇ', 'ㅋ', 'ㅡ', 'ㄴ', 'ㄷ', 'ㅏ', 'ㄹ', 'ㄱ', 'ㅑ', 'ㄹ', 'ㅇ', 'ㅣ', 'ㅇ', 'ㅑ'],dlrprkwkdzmsekfrifdldi,0.9909706115722656| - 73
+2025-10-23 19:25:15,683 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=1 "HTTP/2 200 OK" - 1740
+2025-10-23 19:25:15,684 - INFO - Auto-translate utilized for entry: 1 - 61
+2025-10-23 19:25:15,685 - INFO - |1,1,[],,0.229780912399292| - 73
+2025-10-23 19:25:25,154 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=hana1 "HTTP/2 200 OK" - 1740
+2025-10-23 19:25:25,155 - INFO - Auto-translate utilized for entry: hana1 - 61
+2025-10-23 19:25:25,158 - INFO - |hana1,하나1,['ㅎ', 'ㅏ', 'ㄴ', 'ㅏ'],gksk,0.3438270092010498| - 73
+2025-10-23 19:25:40,364 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=%40%40%25%23 "HTTP/2 200 OK" - 1740
+2025-10-23 19:25:40,365 - INFO - Auto-translate utilized for entry: @@%# - 61
+2025-10-23 19:25:40,365 - INFO - |@@%#,@@%#,[],,0.43365025520324707| - 73
+2025-10-23 19:26:02,586 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=apple "HTTP/2 200 OK" - 1740
+2025-10-23 19:26:02,586 - INFO - Auto-translate utilized for entry: apple - 61
+2025-10-23 19:26:02,587 - INFO - |apple,사과,['ㅅ', 'ㅏ', 'ㄱ', 'ㅗ', 'ㅏ'],tkrhk,0.1777026653289795| - 73
+2025-10-23 19:36:18,408 - ERROR - 'Translator' object does not support the asynchronous context manager protocol - 63
+2025-10-23 19:37:11,199 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=apple "HTTP/2 200 OK" - 1740
+2025-10-23 19:37:11,200 - INFO - Auto-translate utilized for entry: apple - 61
+2025-10-23 19:37:11,201 - INFO - |apple,사과,['ㅅ', 'ㅏ', 'ㄱ', 'ㅗ', 'ㅏ'],tkrhk,0.18368315696716309| - 73
+2025-10-23 19:38:54,457 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=apple "HTTP/2 200 OK" - 1740
+2025-10-23 19:38:54,457 - INFO - Auto-translate utilized for entry: apple - 61
+2025-10-23 19:38:54,459 - INFO - |apple,사과,['ㅅ', 'ㅏ', 'ㄱ', 'ㅗ', 'ㅏ'],tkrhk,0.08753132820129395| - 73
+2025-10-23 19:38:57,834 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=pokmeon "HTTP/2 200 OK" - 1740
+2025-10-23 19:38:57,835 - INFO - Auto-translate utilized for entry: pokmeon - 61
+2025-10-23 19:38:57,835 - INFO - |pokmeon,포켓몬,['ㅍ', 'ㅗ', 'ㅋ', 'ㅔ', 'ㅅ', 'ㅁ', 'ㅗ', 'ㄴ'],vhzptahs,0.09544634819030762| - 73
+2025-10-23 19:39:17,160 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=asd "HTTP/2 200 OK" - 1740
+2025-10-23 19:39:17,160 - INFO - Auto-translate utilized for entry: asd - 61
+2025-10-23 19:39:17,161 - INFO - |asd,ASD,[],,0.15696239471435547| - 73
+2025-10-23 19:39:20,949 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=awqeqwasd "HTTP/2 200 OK" - 1740
+2025-10-23 19:39:20,949 - INFO - Auto-translate utilized for entry: awqeqwasd - 61
+2025-10-23 19:39:20,949 - INFO - |awqeqwasd,awqeqwasd,[],,1.2028160095214844| - 73
+2025-10-23 19:39:23,406 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=pokemon "HTTP/2 200 OK" - 1740
+2025-10-23 19:39:23,409 - INFO - Auto-translate utilized for entry: pokemon - 61
+2025-10-23 19:39:23,410 - INFO - |pokemon,포켓몬,['ㅍ', 'ㅗ', 'ㅋ', 'ㅔ', 'ㅅ', 'ㅁ', 'ㅗ', 'ㄴ'],vhzptahs,0.08960413932800293| - 73
+2025-10-23 19:39:43,171 - INFO - HTTP Request: GET https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&hl=ko&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&ie=UTF-8&oe=UTF-8&otf=1&ssel=0&tsel=0&tk=xxxx&q=that "HTTP/2 200 OK" - 1740
+2025-10-23 19:39:43,173 - INFO - Auto-translate utilized for entry: that - 61
+2025-10-23 19:39:43,173 - INFO - |that,저것,['ㅈ', 'ㅓ', 'ㄱ', 'ㅓ', 'ㅅ'],wjrjt,0.298952579498291| - 73

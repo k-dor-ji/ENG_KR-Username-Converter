@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+jamo
+googletrans==4.0.2
