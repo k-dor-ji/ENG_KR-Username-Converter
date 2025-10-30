@@ -81,3 +81,6 @@ npm run dev
 - Support for non-translatable usernames
 
 ---
+
+[GitHub](https://github.com/k-dor-ji/Hangul-Name-Converter/blob/main/hncDocumentation.pdf)
+
