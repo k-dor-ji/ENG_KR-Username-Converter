@@ -82,5 +82,5 @@ npm run dev
 
 ---
 
-[GitHub](https://github.com/k-dor-ji/Hangul-Name-Converter/blob/main/hncDocumentation.pdf)
+[Documentation](https://github.com/k-dor-ji/Hangul-Name-Converter/blob/main/hncDocumentation.pdf)
 
